@@ -13,7 +13,7 @@
  If the user fails to guess the correct word, the secret word will be displayed after the 6th attempt and then you can click to play the next word and start the game with a fresh new word.
  
  
-![5](https://user-images.githubusercontent.com/109617585/179922548-76e373bf-1314-49ea-945f-b32cfc1b264a.JPG)
+<img width="698" alt="Screen Shot 2023-01-10 at 6 09 04 PM" src="https://user-images.githubusercontent.com/116767779/211701542-76bb9769-9aee-4816-a54b-419b29041591.png">
 
 
 
