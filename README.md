@@ -35,13 +35,12 @@ step3: Login game and Enter game window
 
 <img width="698" alt="Screen Shot 2023-01-10 at 6 10 27 PM" src="https://user-images.githubusercontent.com/116767779/211701758-164a20a0-e16f-48b9-be78-a211cb26c539.png">
 
-![4](https://user-images.githubusercontent.com/109617585/179924301-31626dbe-2c15-4dac-bff5-33941e4701ee.JPG)
 
 
 
 step4: Play game, use hint ( Enjoy)
 
-![5](https://user-images.githubusercontent.com/109617585/179924604-29929030-ea21-4e34-be45-fc98896fa805.JPG)
+<img width="696" alt="Screen Shot 2023-01-10 at 6 12 07 PM" src="https://user-images.githubusercontent.com/116767779/211701912-eacd9de2-9079-4b34-ac7c-a2895b6d7c20.png">
 
 
 
