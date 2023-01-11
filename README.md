@@ -33,7 +33,7 @@ step2: Register for game
 step3: Login game and Enter game window
 
 
-![3](https://user-images.githubusercontent.com/109617585/179924167-e0c9bcb8-01de-4e86-be7c-509e4dde9061.JPG)
+<img width="698" alt="Screen Shot 2023-01-10 at 6 10 27 PM" src="https://user-images.githubusercontent.com/116767779/211701758-164a20a0-e16f-48b9-be78-a211cb26c539.png">
 
 ![4](https://user-images.githubusercontent.com/109617585/179924301-31626dbe-2c15-4dac-bff5-33941e4701ee.JPG)
 
