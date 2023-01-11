@@ -2,7 +2,7 @@
  Your favorite game in your terminal!
  
  
- ![image](https://user-images.githubusercontent.com/109617585/179921505-fe7a0472-1db4-4212-9a52-28cb62f2ff48.png)
+<img width="805" alt="Screen Shot 2023-01-10 at 6 06 02 PM" src="https://user-images.githubusercontent.com/116767779/211701416-71b97096-763d-450a-a52f-c4783447ba27.png">
  
  “Wordle” is a game where the player tries to guess a secret word based on the hints that will be provided to the player in Wordle. In Wordle, users have to guess the word that has five letters over six attempts by using a color-hinting strategy and Hint label provided to show the first letter of the secret word which will only display if you hover cursor on the label or you can choose to play game based on color hinting. 
  
